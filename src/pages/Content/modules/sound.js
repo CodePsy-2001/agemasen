@@ -1,0 +1,1 @@
+export const agemasen = new Audio("https://www.myinstants.com/media/sounds/agemasen.mp3");
